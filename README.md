@@ -1,2 +1,2 @@
-# solfa2mid
-Python library that converts music scores written in tonic solfa notation to midi files
+# solpha
+Mobile app to aid music composition and rehearsal using the tonic solfa notation
