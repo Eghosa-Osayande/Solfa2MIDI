@@ -1,0 +1,33 @@
+{
+    "TITLE": "yanni_nightingale",
+    "TONIC": "G",
+    "TONIC_PITCH": 5,
+    "BPM": 140,
+    "NUMERATOR": 4,
+    "DENOMINATOR": 4,
+    "MODE": "static",
+    "PARTS": [
+        {
+            "name": "Violin",
+            "volume": 127,
+            "instrument": 40,
+            "mode":"static",
+            "score": ": : : |m:s:l:-|s:-:m:-|m.s:m.s:l:-|t.l:t:d':-|d'.t:l.s:l:-|s.l:s.m,r:m:-|-:s.m:r:-|-:d.m:r:-|x:x:x:x|x:x:x:x|x:x:x:x|x:x:x:s|m:-:x:x|x:x:x:m|s:-:-:-|x:x:x:x|m', .s', :m', .s', :l':-|s':-:m':-|m', .s', :m', .s', :l', .t', :l', .s', |s',l'.s',m':r'.s', :m':-|-:s'. :d':-.r',m'|r':m',r'.s',r':m':-.m'|s'.m':s',m'.r',s':r':-|-.d':d'.m':r',m'.r':-|-:x:x:x:"
+        },
+        {
+            "name": "Cello",
+            "volume": 127,
+            "instrument": 42,
+            "mode":"static",
+            "score": ": : : |x:x:x:x|x:x:x:x|x.x:x.x:x:x|x.x:x:x':x|x'.x:x.x:x:x|x.x:x.x,x:x:x|x:x.x:x:x|x:x.x:x:x|''m:''s:''l:-|''s:-:''m:-|''m.''s:''m.''s:''l.''t:''l.''s|''s,''l.''s,''m:''r.''s, :''m:-|'''s. :'''l. :''d:-|''r:''m,''r.''d,''r:''m:-.''m|''s.''m:''s,''m.''r,''d:''r:-|-:''d.''m:''r,''m.''r:-|x:x:x:x|x:x:x:x|x:x:x:x|x:x:x:''s|''m:-:-:-|x:x:x:''m|''s:-:-:-|-:-:-:-|-:x:x:x:"
+        },
+        {
+            "name": "Soprano",
+            "volume": 127,
+            "instrument": 0,
+            "mode":"static",
+            "score": ": : :  |x:x:d.m:s|'t.r:s:'l.m:s|d.s:'t.r:'l.m:s|'t.r:s:d.m:s|d.s:'t.r:'l.m:s|'t.r:s:d.m:s|d.s:'t.r:'f.'l:d.f|s.m:d.'t:r.f:s.t|d':x:d.m:s|'t.r:s:d.m:s|d.s:'t.r:'l.m:s|'t.r:s:d.m:s|d.s:'t.r:'l.m:s|'t.r:s:d.m:s|d.s:'t.r:'f.'l:d.f|s.m:d.'t:r.f:s.t|d':x:d.m:s|'t.r:s:d.m:s|d.s:'t.r:'l.m:s|'t.r:s:d.m:s|d.s:'t.r:'l.m:s|'t.r:s:d.m:s|d.s:'t.r:'f.'l:d.f|d':x:x:x:"
+        }
+    ]
+}
+
