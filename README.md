@@ -9,7 +9,7 @@ Staff notation is the most popular music notation in the world (Burkholder, Grou
 This research work addresses this issue. We developed an algorithm that parses music written in tonic solfa notation from text files into MIDI files. Additionally, we created an online web-based editor using the Flutter framework that implements the algorithm, enabling users to compose music using tonic solfa notation. The editor is equipped with playback functionality, allowing users to hear the output of their compositions in MIDI format. It also supports the export of music scores in both PDF and MIDI formats, facilitating the easy sharing of music.
 
 ## Contributions to the field:
-- A web-based tonic solfa music editor created with Flutter. Available at [https://audiolizer.onrender.com/](https://audiolizer.onrender.com/)
+- A web-based tonic solfa music editor created with Flutter. Available at [https://solfacity.com/app/playbook](https://solfacity.com/app/playbook)
 - A Dart package for generating MIDI files, as none previously existed. Available at [https://pub.dev/packages/midi_util](https://pub.dev/packages/midi_util)
 
 ## Future work:
